@@ -1,3 +1,6 @@
 [submodule "random"]
 	path = random
 	url = git@github.com:chaffRs/random.git
+[submodule "math"]
+	path = math
+	url = git@github.com:chaffRs/math.git
